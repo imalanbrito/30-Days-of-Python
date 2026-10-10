@@ -20,4 +20,4 @@ print({"name": "Alan"})
 print(((10 - 2) ** 2 + (8 - 3) ** 2) ** 0.5)
 
 #NOTA: la formula para calcular la distancia euclidiana es: sqrt((x2 - x1)^2 + (y2 - y1)^2)
-#NOTA: en python, para calcular la raiz cuadrada se puede usar el operador ** 0.5, que es equivalente a sqrt().
+#NOTA: en python, para calcular la raiz cuadrada se puede usar el operador ** 0.5, que es equivalente a sqrt().mk
